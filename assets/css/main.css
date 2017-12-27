@@ -2814,7 +2814,7 @@
 
 /* Goto Next */
 
-	.goto-next {
+	.goto-next1 {
 		border: 0;
 		bottom: 0;
 		display: block;
@@ -2829,7 +2829,7 @@
 		z-index: 1;
 	}
 
-		.goto-next:before {
+		.goto-next1:before {
 			background-image: url("images/arrow.svg");
 			background-position: center center;
 			background-repeat: no-repeat;
@@ -3564,7 +3564,7 @@
 					width: 100% !important;
 				}
 
-				.spotlight .goto-next {
+				.spotlight .goto-next1 {
 					display: none;
 				}
 
@@ -3580,7 +3580,7 @@
 				background-attachment: scroll;
 			}
 
-				#banner .goto-next {
+				#banner .goto-next1 {
 					height: 7em;
 				}
 
@@ -3663,7 +3663,7 @@
 
 		/* Goto Next */
 
-			.goto-next:before {
+			.goto-next1:before {
 				height: 0.8em;
 				margin: -0.4em 0 0 -0.6em;
 				width: 1.2em;
@@ -3999,3 +3999,4 @@
 					}
 
 	}
+	
