@@ -1617,6 +1617,7 @@
 		font-size: 2em;
 		line-height: 1.5em;
 		letter-spacing: -0.025em;
+		font-weight:bold
 	}
 
 	h3 {
@@ -2104,6 +2105,7 @@
 		color: #ffffff;
 		position: relative;
 		margin: 0 0 1.5em 0;
+		font-weight:bold
 	}
 
 	header h2 + p {
